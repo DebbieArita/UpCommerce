@@ -68,3 +68,6 @@ kubectl apply -f service.yml
 * Kubernetes manifests for deployment
 * Prometheus monitoring and alerting examples
 * Easily extendable (auth, payments, inventory, etc.)
+
+---
+Courtesy of SRE with Google course!!!
